@@ -1,1 +1,3 @@
 Theme: Minima 
+plugins:
+  - jekyll-feed
